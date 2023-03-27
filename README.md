@@ -1,5 +1,4 @@
-## Hola👋
-## Soy:
+## Hola👋, Soy:
 
 # Julián David Silva Valencia
 
